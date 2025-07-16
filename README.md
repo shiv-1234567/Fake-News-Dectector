@@ -8,6 +8,7 @@ This Fake News Detection app uses Logistic Regression with TF-IDF features to cl
 This project builds a web-based application that classifies news text as Fake or Real, using a Logistic Regression model trained on a labeled dataset of ~45,000 articles. It is especially tuned for political and global news categories.
 
 🚀 Live Demo
+https://fake-news-dectector-82g5eo6yfjjztx8em8dyqe.streamlit.app/
 Glimpses:
 <img width="905" height="623" alt="image" src="https://github.com/user-attachments/assets/5a95feee-a39b-4d51-a522-8484927013fd" />
 <img width="930" height="748" alt="image" src="https://github.com/user-attachments/assets/29ce2fbf-3a90-4bd8-83dd-750ee893e75c" />
